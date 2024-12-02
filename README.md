@@ -23,5 +23,5 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/username/translator-app.git  
+   git clone https://github.com/Jaswanth1806/translator-app.git  
    cd translator-app  
