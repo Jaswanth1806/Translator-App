@@ -16,7 +16,7 @@ This project is a fully functional **Translator App** built using **React** and 
 ### Prerequisites  
 Ensure you have the following installed:  
 - **Node.js** (LTS version recommended)  
-- **npm** or **yarn**  
+- **npm**  
 - **Vite** (for fast builds and development)  
 
 ### Installation Steps  
@@ -26,9 +26,11 @@ Ensure you have the following installed:
    git clone https://github.com/Jaswanth1806/translator-app.git  
    cd translator-app
 2. **Install Dependencies**  
-   ```npm install
+   ```bash
+   npm install
 3. **Run the Development Server**  
-   ```npm run dev
+   ```bash
+   npm install
 
 
 
