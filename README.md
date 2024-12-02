@@ -30,9 +30,7 @@ Ensure you have the following installed:
    npm install
 3. **Run the Development Server**  
    ```bash
-   npm install
-
-
+   npm run dev
 
 📝 Usage
 Language Selection: Use the dropdown to choose source and target languages.
