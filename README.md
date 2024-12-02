@@ -24,4 +24,23 @@ Ensure you have the following installed:
 1. **Clone the Repository**  
    ```bash  
    git clone https://github.com/Jaswanth1806/translator-app.git  
-   cd translator-app  
+   cd translator-app
+2. **Install Dependencies**  
+   ```npm install
+3. **Run the Development Server**  
+   ```npm run dev
+
+
+
+📝 Usage
+Language Selection: Use the dropdown to choose source and target languages.
+Input & Translate: Enter text in the input field and click the button or press Enter to translate.
+Swap Languages: Click the Swap button to reverse the selected languages.
+📦 Dependencies
+React: Frontend library for building the UI.
+TailwindCSS: Utility-first CSS framework for styling.
+Vite: Fast build tool for modern web projects.
+💡 Future Enhancements
+Add text-to-speech functionality.
+Implement offline translation for common phrases.
+Enhance error handling for API calls.
